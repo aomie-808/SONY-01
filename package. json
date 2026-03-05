@@ -1,7 +1,7 @@
 {
-  "name": "NEMO-01",
+  "name": "SONY-01",
   "version": "1.0.0",
-  "description": "NEMO-01 WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "description": "SONY-01 WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -27,6 +27,6 @@
     "file-type": "^19.0.0",
     "form-data": "^4.0.1"
   },
-  "author": "𓆩 NEMO-01 𓆪",
+  "author": "𓆩 SONY-01 𓆪",
   "license": "ISC"
 }
